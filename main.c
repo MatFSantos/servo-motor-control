@@ -8,7 +8,7 @@
 #include "modules/led.h"
 #include "modules/pwm.h"
 
-#define SERVOMOTOR_PIN PIN_BLUE_LED
+#define SERVOMOTOR_PIN 22
 #define PWM_DIVISER 100.0
 #define PWM_WRAP 25000
 

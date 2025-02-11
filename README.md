@@ -52,4 +52,4 @@ Ao fazer isso, pode-se observar a rotina inicial decrementando o brilho do led d
 
 ## Vídeo Ensaio
 
-Clique em ***[link do video](https://drive.google.com/file/d/1vsgxwYzQk_zL7GVnioR4XT7UeSVNTtEv/view?usp=sharing)*** para visualizar o vídeo ensaio do projeto.
+Clique em ***[link do video](https://drive.google.com/file/d/1qlz-bz6DcVHq5Py1jvXC1y7Pg3Kf6Me3/view?usp=sharing)*** para visualizar o vídeo ensaio do projeto.
